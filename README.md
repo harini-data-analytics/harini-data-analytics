@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Harini!
 
-<!--
-**harini-data-analytics/harini-data-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | M.Sc. Data Science Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently pursuing my Master's degree in Data Science and exploring the exciting world of Data Analytics.
+
+I enjoy learning how to work with data, discover patterns, create visualizations, and generate meaningful insights.
+
+### Technical Skills
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Statistics
+- Data Visualization
+
+### Career Objective
+To build a career as a Data Analyst and use data-driven insights to solve real-world business problems.
+
+### Currently Learning
+- Data Analysis with Python
+- SQL for Data Analytics
+- Power BI Dashboards
+- Exploratory Data Analysis
+
+### My Goal
+Continuously improve my technical skills and build practical projects that demonstrate my analytical abilities.
+
+### Let's Connect
+- LinkedIn: 
+- Email: harinijxiib@gmail.com
